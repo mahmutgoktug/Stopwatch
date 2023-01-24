@@ -5,6 +5,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #dddddd;
+}
 .container{
     background-color: #141313;
     width: 40%;
@@ -51,4 +54,5 @@
     font-size: 18px;
     border-radius: 5px;
     cursor: pointer;
+    outline: none;
 }
